@@ -4,7 +4,7 @@ cd "$(dirname "$0")"
 
 # This script sets up the required directories in app/src/sanitize. It can be run again if you change the ndk version.
 
-ndkversion="24.0.8215888"
+ndkversion="23.1.7779620"
 
 # store wrap.sh to variable
 read -r -d '' script <<'EOT'
